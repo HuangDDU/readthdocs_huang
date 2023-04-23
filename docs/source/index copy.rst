@@ -15,6 +15,13 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+
+.. toctree::
+
+   usage
+   api
+   notebooks/JupyterNotebookTest
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
